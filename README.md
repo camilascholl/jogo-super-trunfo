@@ -55,7 +55,7 @@ Um jogo simples de terminal inspirado no famoso "Super Trunfo", desenvolvido em 
 
 ---
 
-📷 Exemplo de execução
+## 📷 Exemplo de execução
 
 === Menu Principal ===
 1. Iniciar Jogo
@@ -79,12 +79,12 @@ Deseja comparar outro atributo? (1 - Sim / 0 - Não)
 
 ---
 
-📄 Licença
+## 📄 Licença
 
 Este projeto é de uso livre para fins educacionais. Fique à vontade para estudar, modificar e compartilhar.
 
 ---
 
-👨‍💻 Feito por Camila Scholl
+## 👨‍💻 Feito por Camila Scholl
 
 Projeto criado como exercício prático em linguagem C para comparação de estruturas e uso de controle de fluxo.
